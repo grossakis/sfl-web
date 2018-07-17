@@ -1,15 +1,12 @@
-body{
-    background-image: url(../images/carousel2.jpg);
-    /* background-repeat:no-repeat; */
-    /* background-size: cover; */
+body{ 
     color: #7b7025;
-    /* text-align: center; */
+    background-position: center;
 }
 .main-content-area{
     clear:both;
     margin: 20px auto;
     padding: 10px;
-    background-color: #ffffffcb;
+    background-color: #ffffffe3;
     width: 80%;
     border: solid 4px #ffffff;
     border-radius: 5px;
@@ -58,4 +55,7 @@ nav a:hover{
     display: block;
     margin: auto;
     border-radius: 3px;
+}
+.about-text-area{
+    padding: 20px;
 }

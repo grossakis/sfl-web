@@ -1,5 +1,5 @@
 body{
-    background-image: url(../images/carousel2.jpg);
+    background-image: url(../images/carousel3.jpeg);
     /* background-repeat:no-repeat; */
     /* background-size: cover; */
     color: #7b7025;
@@ -9,7 +9,7 @@ body{
     clear:both;
     margin: 20px auto;
     padding: 10px;
-    background-color: #ffffffcb;
+    background-color: #ffffffe1;
     width: 80%;
     border: solid 4px #ffffff;
     border-radius: 5px;
@@ -53,6 +53,11 @@ nav a:hover{
     color: #bab17c;
     text-decoration-line: none;
 }
+
+
+
+
+
 .display-pic{
     width: 60%;
     display: block;

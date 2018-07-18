@@ -54,8 +54,13 @@ nav a:hover{
     width: 60%;
     display: block;
     margin: auto;
-    border-radius: 3px;
+    border-radius: 5px;
 }
 .about-text-area{
     padding: 20px;
+}
+.gallery-pic{
+    width: 20%;
+    padding: 2%;
+    border-radius: 30px;
 }
